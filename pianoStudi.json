@@ -1,8 +1,34 @@
 [
   {
-    "nome": "sistemi mobili",
-    "SSD": "INF/01",
+    "nome": "Sistemi Mobili",
+    "docente": "Di Nardo Di Maio",
     "cfu": 6,
-    "annoInsegnamento": 3
+    "annoInsegnamento": 3,
+    "descrizione": "Descrizione del corso",
+    "superato": "true"
+  },
+  {
+    "nome": "Reti di calcolatori",
+    "docente": "Scozzari",
+    "cfu": 6,
+    "annoInsegnamento": 3,
+    "descrizione": "Descrizione del corso",
+    "superato": "true"
+  },
+  {
+    "nome": "Programmazione Web",
+    "docente": "Fioravanti",
+    "cfu": 6,
+    "annoInsegnamento": 2,
+    "descrizione": "Descrizione del corso",
+    "superato": "false"
+  },
+  {
+    "nome": "Ragioneria",
+    "docente": "Rea",
+    "cfu": 6,
+    "annoInsegnamento": 3,
+    "descrizione": "Descrizione del corso",
+    "superato": "false"
   }
 ]
